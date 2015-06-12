@@ -15,4 +15,4 @@ examples: [
     </h2>
 </div>
 <h3>Examples</h3>
-<ul>{% for ex in page.examples %}<li><a href="200.html?gist={{ex[0]}}">{{ex[1]}}</a></li>{% endfor %}</ul>
+<ul>{% for ex in page.examples %}<li><a href="playground.html?gist={{ex[0]}}">{{ex[1]}}</a></li>{% endfor %}</ul>
