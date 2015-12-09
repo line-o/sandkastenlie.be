@@ -38,11 +38,14 @@ code {
     text-decoration: none;
 }
 
+.pw-docs-nav .navbar-brand:first-of-type {
+  padding-right: 0;
+}
+
 .pw-docs-nav .logo {
     width: 30px;
     float:left;
     margin-top: -5px;
-    margin-right: 8px;
 }
 
 .pw-docs-nav .navbar-toggle .icon-bar {
